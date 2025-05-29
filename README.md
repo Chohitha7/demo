@@ -1,4 +1,5 @@
 # demo
-hello
+hello,Everyone
 <br>
-Author - Chohitha
+This is Chohitha
+<i> This is my git repository </i>
